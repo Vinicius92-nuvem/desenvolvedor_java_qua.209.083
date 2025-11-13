@@ -19,7 +19,7 @@ public class App {
             null,
             "selecione uma opção:",
             "Combustivel",
-            0,
+            JOptionPane.INFORMATION_MESSAGE,
             null,
             opcoes,
             opcoes[0]
